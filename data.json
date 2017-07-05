@@ -1,0 +1,4793 @@
+{
+  "statuses": [
+    {
+      "created_at": "Fri Jun 23 12:15:17 +0000 2017",
+      "id": 878224944080879616,
+      "id_str": "878224944080879616",
+      "text": "Good read about Bitcoin. (by Nakamoto)\n\nhttps://t.co/kgt85vE9f2",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/kgt85vE9f2",
+            "expanded_url": "https://bitcoin.org/bitcoin.pdf",
+            "display_url": "bitcoin.org/bitcoin.pdf",
+            "indices": [
+              40,
+              63
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 216718524,
+        "id_str": "216718524",
+        "name": "Adam Schweizer",
+        "screen_name": "AdamSchweizer",
+        "location": "Dundee, Scotland",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 128,
+        "friends_count": 253,
+        "listed_count": 1,
+        "created_at": "Wed Nov 17 14:38:34 +0000 2010",
+        "favourites_count": 247,
+        "utc_offset": 7200,
+        "time_zone": "Amsterdam",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 242,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/840677594374758400/0mDj0WGj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/840677594374758400/0mDj0WGj_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/216718524/1489264835",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Jun 23 09:44:11 +0000 2017",
+      "id": 878186916717383680,
+      "id_str": "878186916717383680",
+      "text": "RT @mwilcox: @timoncc @TeamWinnaar @el33th4xor @adam3us Recommended reading\nhttps://t.co/B3OxJkJFXx",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mwilcox",
+            "name": "Mark Wilcox",
+            "id": 8720422,
+            "id_str": "8720422",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "timoncc",
+            "name": "Jorge Timón",
+            "id": 610700309,
+            "id_str": "610700309",
+            "indices": [
+              13,
+              21
+            ]
+          },
+          {
+            "screen_name": "TeamWinnaar",
+            "name": "Team Winnaar",
+            "id": 2906289614,
+            "id_str": "2906289614",
+            "indices": [
+              22,
+              34
+            ]
+          },
+          {
+            "screen_name": "el33th4xor",
+            "name": "Emin Gün Sirer",
+            "id": 399412477,
+            "id_str": "399412477",
+            "indices": [
+              35,
+              46
+            ]
+          },
+          {
+            "screen_name": "adam3us",
+            "name": "Adam Back",
+            "id": 213236426,
+            "id_str": "213236426",
+            "indices": [
+              47,
+              55
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/B3OxJkJFXx",
+            "expanded_url": "https://bitcoin.org/bitcoin.pdf",
+            "display_url": "bitcoin.org/bitcoin.pdf",
+            "indices": [
+              76,
+              99
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 8720422,
+        "id_str": "8720422",
+        "name": "Mark Wilcox",
+        "screen_name": "mwilcox",
+        "location": "Cambridge, New Zealand",
+        "description": "distributed systems",
+        "url": "http://t.co/HyOtEYRNRE",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/HyOtEYRNRE",
+                "expanded_url": "http://markwilcox.com",
+                "display_url": "markwilcox.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1676,
+        "friends_count": 2278,
+        "listed_count": 158,
+        "created_at": "Fri Sep 07 10:07:13 +0000 2007",
+        "favourites_count": 10903,
+        "utc_offset": 43200,
+        "time_zone": "Auckland",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 11586,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "2E2E2E",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/110539870/background.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/110539870/background.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/868969166350426113/4vHfjSf7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/868969166350426113/4vHfjSf7_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/8720422/1451279926",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "B0B0B0",
+        "profile_sidebar_fill_color": "B0B0B0",
+        "profile_text_color": "666666",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Jun 23 09:44:08 +0000 2017",
+        "id": 878186906072227841,
+        "id_str": "878186906072227841",
+        "text": "@timoncc @TeamWinnaar @el33th4xor @adam3us Recommended reading\nhttps://t.co/B3OxJkJFXx",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "timoncc",
+              "name": "Jorge Timón",
+              "id": 610700309,
+              "id_str": "610700309",
+              "indices": [
+                0,
+                8
+              ]
+            },
+            {
+              "screen_name": "TeamWinnaar",
+              "name": "Team Winnaar",
+              "id": 2906289614,
+              "id_str": "2906289614",
+              "indices": [
+                9,
+                21
+              ]
+            },
+            {
+              "screen_name": "el33th4xor",
+              "name": "Emin Gün Sirer",
+              "id": 399412477,
+              "id_str": "399412477",
+              "indices": [
+                22,
+                33
+              ]
+            },
+            {
+              "screen_name": "adam3us",
+              "name": "Adam Back",
+              "id": 213236426,
+              "id_str": "213236426",
+              "indices": [
+                34,
+                42
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/B3OxJkJFXx",
+              "expanded_url": "https://bitcoin.org/bitcoin.pdf",
+              "display_url": "bitcoin.org/bitcoin.pdf",
+              "indices": [
+                63,
+                86
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": 878186709162143744,
+        "in_reply_to_status_id_str": "878186709162143744",
+        "in_reply_to_user_id": 610700309,
+        "in_reply_to_user_id_str": "610700309",
+        "in_reply_to_screen_name": "timoncc",
+        "user": {
+          "id": 8720422,
+          "id_str": "8720422",
+          "name": "Mark Wilcox",
+          "screen_name": "mwilcox",
+          "location": "Cambridge, New Zealand",
+          "description": "distributed systems",
+          "url": "http://t.co/HyOtEYRNRE",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/HyOtEYRNRE",
+                  "expanded_url": "http://markwilcox.com",
+                  "display_url": "markwilcox.com",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 1676,
+          "friends_count": 2278,
+          "listed_count": 158,
+          "created_at": "Fri Sep 07 10:07:13 +0000 2007",
+          "favourites_count": 10903,
+          "utc_offset": 43200,
+          "time_zone": "Auckland",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 11586,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "2E2E2E",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/110539870/background.png",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/110539870/background.png",
+          "profile_background_tile": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/868969166350426113/4vHfjSf7_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/868969166350426113/4vHfjSf7_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/8720422/1451279926",
+          "profile_link_color": "ABB8C2",
+          "profile_sidebar_border_color": "B0B0B0",
+          "profile_sidebar_fill_color": "B0B0B0",
+          "profile_text_color": "666666",
+          "profile_use_background_image": false,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Jun 23 09:44:08 +0000 2017",
+      "id": 878186906072227841,
+      "id_str": "878186906072227841",
+      "text": "@timoncc @TeamWinnaar @el33th4xor @adam3us Recommended reading\nhttps://t.co/B3OxJkJFXx",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "timoncc",
+            "name": "Jorge Timón",
+            "id": 610700309,
+            "id_str": "610700309",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "TeamWinnaar",
+            "name": "Team Winnaar",
+            "id": 2906289614,
+            "id_str": "2906289614",
+            "indices": [
+              9,
+              21
+            ]
+          },
+          {
+            "screen_name": "el33th4xor",
+            "name": "Emin Gün Sirer",
+            "id": 399412477,
+            "id_str": "399412477",
+            "indices": [
+              22,
+              33
+            ]
+          },
+          {
+            "screen_name": "adam3us",
+            "name": "Adam Back",
+            "id": 213236426,
+            "id_str": "213236426",
+            "indices": [
+              34,
+              42
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/B3OxJkJFXx",
+            "expanded_url": "https://bitcoin.org/bitcoin.pdf",
+            "display_url": "bitcoin.org/bitcoin.pdf",
+            "indices": [
+              63,
+              86
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 878186709162143744,
+      "in_reply_to_status_id_str": "878186709162143744",
+      "in_reply_to_user_id": 610700309,
+      "in_reply_to_user_id_str": "610700309",
+      "in_reply_to_screen_name": "timoncc",
+      "user": {
+        "id": 8720422,
+        "id_str": "8720422",
+        "name": "Mark Wilcox",
+        "screen_name": "mwilcox",
+        "location": "Cambridge, New Zealand",
+        "description": "distributed systems",
+        "url": "http://t.co/HyOtEYRNRE",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/HyOtEYRNRE",
+                "expanded_url": "http://markwilcox.com",
+                "display_url": "markwilcox.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1676,
+        "friends_count": 2278,
+        "listed_count": 158,
+        "created_at": "Fri Sep 07 10:07:13 +0000 2007",
+        "favourites_count": 10903,
+        "utc_offset": 43200,
+        "time_zone": "Auckland",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 11586,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "2E2E2E",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/110539870/background.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/110539870/background.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/868969166350426113/4vHfjSf7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/868969166350426113/4vHfjSf7_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/8720422/1451279926",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "B0B0B0",
+        "profile_sidebar_fill_color": "B0B0B0",
+        "profile_text_color": "666666",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Jun 22 12:45:58 +0000 2017",
+      "id": 877870274976268288,
+      "id_str": "877870274976268288",
+      "text": "@Unicronisboss @MattWelch It's obvious but you should take your time with this https://t.co/ZjnAqI5I2q",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Unicronisboss",
+            "name": "Learnin' Deadpool",
+            "id": 79661338,
+            "id_str": "79661338",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "MattWelch",
+            "name": "Matt Welch",
+            "id": 21368060,
+            "id_str": "21368060",
+            "indices": [
+              15,
+              25
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ZjnAqI5I2q",
+            "expanded_url": "http://bitcoin.org/bitcoin.pdf",
+            "display_url": "bitcoin.org/bitcoin.pdf",
+            "indices": [
+              79,
+              102
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 877713754732904448,
+      "in_reply_to_status_id_str": "877713754732904448",
+      "in_reply_to_user_id": 79661338,
+      "in_reply_to_user_id_str": "79661338",
+      "in_reply_to_screen_name": "Unicronisboss",
+      "user": {
+        "id": 52214252,
+        "id_str": "52214252",
+        "name": "Adam Pierce",
+        "screen_name": "ajfirecracker",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 43,
+        "friends_count": 33,
+        "listed_count": 3,
+        "created_at": "Mon Jun 29 22:35:41 +0000 2009",
+        "favourites_count": 32,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 491,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/659522776982667264/s1Iw5_im_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/659522776982667264/s1Iw5_im_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Jun 22 00:19:10 +0000 2017",
+      "id": 877682338787991552,
+      "id_str": "877682338787991552",
+      "text": "@awealthofcs @daniel_egan @naval This is a good place to start then: https://t.co/b6Etdd7xfr",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "awealthofcs",
+            "name": "Ben Carlson",
+            "id": 97530284,
+            "id_str": "97530284",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "daniel_egan",
+            "name": "Dan Egan ������",
+            "id": 113892588,
+            "id_str": "113892588",
+            "indices": [
+              13,
+              25
+            ]
+          },
+          {
+            "screen_name": "naval",
+            "name": "Naval Ravikant",
+            "id": 745273,
+            "id_str": "745273",
+            "indices": [
+              26,
+              32
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/b6Etdd7xfr",
+            "expanded_url": "https://bitcoin.org/bitcoin.pdf",
+            "display_url": "bitcoin.org/bitcoin.pdf",
+            "indices": [
+              69,
+              92
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 877681620693733377,
+      "in_reply_to_status_id_str": "877681620693733377",
+      "in_reply_to_user_id": 97530284,
+      "in_reply_to_user_id_str": "97530284",
+      "in_reply_to_screen_name": "awealthofcs",
+      "user": {
+        "id": 1478818429,
+        "id_str": "1478818429",
+        "name": "Sid Kalla",
+        "screen_name": "sidkal",
+        "location": "New York",
+        "description": "Bitcoin. Crypto. Blockchain. Finance. Technology. New York. London. CFA",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 402,
+        "friends_count": 473,
+        "listed_count": 39,
+        "created_at": "Mon Jun 03 03:51:28 +0000 2013",
+        "favourites_count": 703,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 708,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/857717689854431232/ufSTpn_4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/857717689854431232/ufSTpn_4_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Jun 21 11:30:16 +0000 2017",
+      "id": 877488835562700801,
+      "id_str": "877488835562700801",
+      "text": "Starting the morning off right with a read of the Bitcoin paper. I'm ashamed it's taken me so long to pay attention https://t.co/MwOvbPEl0B",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/MwOvbPEl0B",
+            "expanded_url": "https://bitcoin.org/bitcoin.pdf",
+            "display_url": "bitcoin.org/bitcoin.pdf",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 15103611,
+        "id_str": "15103611",
+        "name": "Max Lynch",
+        "screen_name": "maxlynch",
+        "location": "Madison",
+        "description": "Co-founder @ionicframework",
+        "url": "https://t.co/Pzc9fBigGt",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/Pzc9fBigGt",
+                "expanded_url": "http://Instagram.com/maxlynch/",
+                "display_url": "Instagram.com/maxlynch/",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 12011,
+        "friends_count": 355,
+        "listed_count": 510,
+        "created_at": "Fri Jun 13 02:12:31 +0000 2008",
+        "favourites_count": 20820,
+        "utc_offset": -18000,
+        "time_zone": "Central Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 22020,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "CFEAF0",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/479029095271899136/4AxMGk8y.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/479029095271899136/4AxMGk8y.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/726955832785571840/8OxhcDxl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/726955832785571840/8OxhcDxl_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15103611/1480657694",
+        "profile_link_color": "737373",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 11,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Jun 20 17:25:04 +0000 2017",
+      "id": 877215737982709769,
+      "id_str": "877215737982709769",
+      "text": "RT @sundarnut: The white paper that started it all - #Bitcoin https://t.co/nUjaSJr4mp #infosec",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Bitcoin",
+            "indices": [
+              53,
+              61
+            ]
+          },
+          {
+            "text": "infosec",
+            "indices": [
+              86,
+              94
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "sundarnut",
+            "name": "Sundar Krishnamurthy",
+            "id": 19015881,
+            "id_str": "19015881",
+            "indices": [
+              3,
+              13
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/nUjaSJr4mp",
+            "expanded_url": "https://bitcoin.org/bitcoin.pdf",
+            "display_url": "bitcoin.org/bitcoin.pdf",
+            "indices": [
+              62,
+              85
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4133920895,
+        "id_str": "4133920895",
+        "name": "0x4d",
+        "screen_name": "0x4d_",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 807,
+        "friends_count": 614,
+        "listed_count": 405,
+        "created_at": "Sat Nov 07 11:51:49 +0000 2015",
+        "favourites_count": 22098,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 23428,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/662986469426995200/nSsDc4ZP.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/662986469426995200/nSsDc4ZP.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/662962846699884544/S7_LN4c0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/662962846699884544/S7_LN4c0_normal.jpg",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Jun 20 17:02:30 +0000 2017",
+        "id": 877210058160918532,
+        "id_str": "877210058160918532",
+        "text": "The white paper that started it all - #Bitcoin https://t.co/nUjaSJr4mp #infosec",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "Bitcoin",
+              "indices": [
+                38,
+                46
+              ]
+            },
+            {
+              "text": "infosec",
+              "indices": [
+                71,
+                79
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/nUjaSJr4mp",
+              "expanded_url": "https://bitcoin.org/bitcoin.pdf",
+              "display_url": "bitcoin.org/bitcoin.pdf",
+              "indices": [
+                47,
+                70
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 19015881,
+          "id_str": "19015881",
+          "name": "Sundar Krishnamurthy",
+          "screen_name": "sundarnut",
+          "location": "Bothell, WA",
+          "description": "Palpably culpable. @concur @SAP Application Security Ninja, Sleepless in Seattle. User Management, teaching #infosec, trainspotting. ������",
+          "url": "https://t.co/SOdf84sS3Q",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/SOdf84sS3Q",
+                  "expanded_url": "https://youtu.be/JuPZXUYPqt0",
+                  "display_url": "youtu.be/JuPZXUYPqt0",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 1910,
+          "friends_count": 5000,
+          "listed_count": 293,
+          "created_at": "Thu Jan 15 08:58:49 +0000 2009",
+          "favourites_count": 201,
+          "utc_offset": -25200,
+          "time_zone": "Pacific Time (US & Canada)",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 11329,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "1A1B1F",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+          "profile_background_tile": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/436232301270155264/Vm_J9dQU_normal.jpeg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/436232301270155264/Vm_J9dQU_normal.jpeg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/19015881/1485212879",
+          "profile_link_color": "1B95E0",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "252429",
+          "profile_text_color": "666666",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "df4875cc2df893ed",
+          "url": "https://api.twitter.com/1.1/geo/id/df4875cc2df893ed.json",
+          "place_type": "city",
+          "name": "Bellevue",
+          "full_name": "Bellevue, WA",
+          "country_code": "US",
+          "country": "United States",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -122.2232093,
+                  47.5349648
+                ],
+                [
+                  -122.076327,
+                  47.5349648
+                ],
+                [
+                  -122.076327,
+                  47.660748
+                ],
+                [
+                  -122.2232093,
+                  47.660748
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Jun 20 17:02:30 +0000 2017",
+      "id": 877210059218014208,
+      "id_str": "877210059218014208",
+      "text": "RT @sundarnut: The white paper that started it all - #Bitcoin https://t.co/nUjaSJr4mp #infosec",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Bitcoin",
+            "indices": [
+              53,
+              61
+            ]
+          },
+          {
+            "text": "infosec",
+            "indices": [
+              86,
+              94
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "sundarnut",
+            "name": "Sundar Krishnamurthy",
+            "id": 19015881,
+            "id_str": "19015881",
+            "indices": [
+              3,
+              13
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/nUjaSJr4mp",
+            "expanded_url": "https://bitcoin.org/bitcoin.pdf",
+            "display_url": "bitcoin.org/bitcoin.pdf",
+            "indices": [
+              62,
+              85
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://github.com/vporta/EmotiBot\" rel=\"nofollow\">TheEmotiBot</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 808873082500902915,
+        "id_str": "808873082500902915",
+        "name": "������",
+        "screen_name": "viiiiiinnn",
+        "location": "",
+        "description": "Retweeting crypto currency tweets often ������ Follow me for the latest.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2789,
+        "friends_count": 1908,
+        "listed_count": 106,
+        "created_at": "Wed Dec 14 03:15:45 +0000 2016",
+        "favourites_count": 7756,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 145285,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/874128459613831168/vljmp0L-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/874128459613831168/vljmp0L-_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/808873082500902915/1497758061",
+        "profile_link_color": "333333",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Jun 20 17:02:30 +0000 2017",
+        "id": 877210058160918532,
+        "id_str": "877210058160918532",
+        "text": "The white paper that started it all - #Bitcoin https://t.co/nUjaSJr4mp #infosec",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "Bitcoin",
+              "indices": [
+                38,
+                46
+              ]
+            },
+            {
+              "text": "infosec",
+              "indices": [
+                71,
+                79
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/nUjaSJr4mp",
+              "expanded_url": "https://bitcoin.org/bitcoin.pdf",
+              "display_url": "bitcoin.org/bitcoin.pdf",
+              "indices": [
+                47,
+                70
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 19015881,
+          "id_str": "19015881",
+          "name": "Sundar Krishnamurthy",
+          "screen_name": "sundarnut",
+          "location": "Bothell, WA",
+          "description": "Palpably culpable. @concur @SAP Application Security Ninja, Sleepless in Seattle. User Management, teaching #infosec, trainspotting. ������",
+          "url": "https://t.co/SOdf84sS3Q",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/SOdf84sS3Q",
+                  "expanded_url": "https://youtu.be/JuPZXUYPqt0",
+                  "display_url": "youtu.be/JuPZXUYPqt0",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 1910,
+          "friends_count": 5000,
+          "listed_count": 293,
+          "created_at": "Thu Jan 15 08:58:49 +0000 2009",
+          "favourites_count": 201,
+          "utc_offset": -25200,
+          "time_zone": "Pacific Time (US & Canada)",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 11329,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "1A1B1F",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+          "profile_background_tile": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/436232301270155264/Vm_J9dQU_normal.jpeg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/436232301270155264/Vm_J9dQU_normal.jpeg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/19015881/1485212879",
+          "profile_link_color": "1B95E0",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "252429",
+          "profile_text_color": "666666",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "df4875cc2df893ed",
+          "url": "https://api.twitter.com/1.1/geo/id/df4875cc2df893ed.json",
+          "place_type": "city",
+          "name": "Bellevue",
+          "full_name": "Bellevue, WA",
+          "country_code": "US",
+          "country": "United States",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -122.2232093,
+                  47.5349648
+                ],
+                [
+                  -122.076327,
+                  47.5349648
+                ],
+                [
+                  -122.076327,
+                  47.660748
+                ],
+                [
+                  -122.2232093,
+                  47.660748
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Jun 20 17:02:30 +0000 2017",
+      "id": 877210058160918532,
+      "id_str": "877210058160918532",
+      "text": "The white paper that started it all - #Bitcoin https://t.co/nUjaSJr4mp #infosec",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Bitcoin",
+            "indices": [
+              38,
+              46
+            ]
+          },
+          {
+            "text": "infosec",
+            "indices": [
+              71,
+              79
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/nUjaSJr4mp",
+            "expanded_url": "https://bitcoin.org/bitcoin.pdf",
+            "display_url": "bitcoin.org/bitcoin.pdf",
+            "indices": [
+              47,
+              70
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 19015881,
+        "id_str": "19015881",
+        "name": "Sundar Krishnamurthy",
+        "screen_name": "sundarnut",
+        "location": "Bothell, WA",
+        "description": "Palpably culpable. @concur @SAP Application Security Ninja, Sleepless in Seattle. User Management, teaching #infosec, trainspotting. ������",
+        "url": "https://t.co/SOdf84sS3Q",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/SOdf84sS3Q",
+                "expanded_url": "https://youtu.be/JuPZXUYPqt0",
+                "display_url": "youtu.be/JuPZXUYPqt0",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1910,
+        "friends_count": 5000,
+        "listed_count": 293,
+        "created_at": "Thu Jan 15 08:58:49 +0000 2009",
+        "favourites_count": 201,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 11329,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/436232301270155264/Vm_J9dQU_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/436232301270155264/Vm_J9dQU_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19015881/1485212879",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "df4875cc2df893ed",
+        "url": "https://api.twitter.com/1.1/geo/id/df4875cc2df893ed.json",
+        "place_type": "city",
+        "name": "Bellevue",
+        "full_name": "Bellevue, WA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -122.2232093,
+                47.5349648
+              ],
+              [
+                -122.076327,
+                47.5349648
+              ],
+              [
+                -122.076327,
+                47.660748
+              ],
+              [
+                -122.2232093,
+                47.660748
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Jun 20 13:51:06 +0000 2017",
+      "id": 877161889725259776,
+      "id_str": "877161889725259776",
+      "text": "RT @m_t_t_b: ビットコインとは？\n\nBitcoin: A Peer-to-Peer Electronic Cash System\nhttps://t.co/D28YYrURoq",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "m_t_t_b",
+            "name": "芳野真弥　Imaginary Love",
+            "id": 171511513,
+            "id_str": "171511513",
+            "indices": [
+              3,
+              11
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/D28YYrURoq",
+            "expanded_url": "https://bitcoin.org/bitcoin.pdf",
+            "display_url": "bitcoin.org/bitcoin.pdf",
+            "indices": [
+              71,
+              94
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3075800797,
+        "id_str": "3075800797",
+        "name": "JAP＠氷結",
+        "screen_name": "r9a2delta61",
+        "location": "タウイタウイ泊地",
+        "description": "艦これ/ガンダム/特撮/STG(ヘタレ)/not絵描き(⬅︎3倍角)/あとなんかテキトー\n\n結構見境なくファボRTする、薄っぺらい人間ですが、それでも良ければよろしくお願いしますm(_ _)m",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 286,
+        "friends_count": 159,
+        "listed_count": 5,
+        "created_at": "Fri Mar 13 00:23:40 +0000 2015",
+        "favourites_count": 70348,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 72957,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/850499964534837248/gKmKkG7Q_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/850499964534837248/gKmKkG7Q_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Jun 20 13:32:57 +0000 2017",
+        "id": 877157322560229378,
+        "id_str": "877157322560229378",
+        "text": "ビットコインとは？\n\nBitcoin: A Peer-to-Peer Electronic Cash System\nhttps://t.co/D28YYrURoq",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/D28YYrURoq",
+              "expanded_url": "https://bitcoin.org/bitcoin.pdf",
+              "display_url": "bitcoin.org/bitcoin.pdf",
+              "indices": [
+                58,
+                81
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "ja",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 171511513,
+          "id_str": "171511513",
+          "name": "芳野真弥　Imaginary Love",
+          "screen_name": "m_t_t_b",
+          "location": "ぴょーん♪",
+          "description": "素粒子の研究してたのに、血迷って人材系コンサル会社入って、今は自分で会社やってる人。　■大学生/高校生に講座したり、企業のコンサルやったり、組織教育やったり、インタビューしたり、文章書いたり　■大学生オンラインサロン　■日経CollegeCafeアカデミー講師　■ドラえもん科学ワールド構成　■座右の銘は「ねこかわいい」",
+          "url": "https://t.co/ge2lQnesoL",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/ge2lQnesoL",
+                  "expanded_url": "https://lounge.dmm.com/detail/315/",
+                  "display_url": "lounge.dmm.com/detail/315/",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 5189,
+          "friends_count": 394,
+          "listed_count": 79,
+          "created_at": "Tue Jul 27 14:30:45 +0000 2010",
+          "favourites_count": 262,
+          "utc_offset": 32400,
+          "time_zone": "Tokyo",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 38429,
+          "lang": "ja",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000068107028/abe33a975508717e0f1bb97b3ebdb8a6.jpeg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000068107028/abe33a975508717e0f1bb97b3ebdb8a6.jpeg",
+          "profile_background_tile": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/875581335896678403/D4k3HWFi_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/875581335896678403/D4k3HWFi_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/171511513/1479026972",
+          "profile_link_color": "000000",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    {
+      "created_at": "Tue Jun 20 13:32:57 +0000 2017",
+      "id": 877157322560229378,
+      "id_str": "877157322560229378",
+      "text": "ビットコインとは？\n\nBitcoin: A Peer-to-Peer Electronic Cash System\nhttps://t.co/D28YYrURoq",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/D28YYrURoq",
+            "expanded_url": "https://bitcoin.org/bitcoin.pdf",
+            "display_url": "bitcoin.org/bitcoin.pdf",
+            "indices": [
+              58,
+              81
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 171511513,
+        "id_str": "171511513",
+        "name": "芳野真弥　Imaginary Love",
+        "screen_name": "m_t_t_b",
+        "location": "ぴょーん♪",
+        "description": "素粒子の研究してたのに、血迷って人材系コンサル会社入って、今は自分で会社やってる人。　■大学生/高校生に講座したり、企業のコンサルやったり、組織教育やったり、インタビューしたり、文章書いたり　■大学生オンラインサロン　■日経CollegeCafeアカデミー講師　■ドラえもん科学ワールド構成　■座右の銘は「ねこかわいい」",
+        "url": "https://t.co/ge2lQnesoL",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/ge2lQnesoL",
+                "expanded_url": "https://lounge.dmm.com/detail/315/",
+                "display_url": "lounge.dmm.com/detail/315/",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 5189,
+        "friends_count": 394,
+        "listed_count": 79,
+        "created_at": "Tue Jul 27 14:30:45 +0000 2010",
+        "favourites_count": 262,
+        "utc_offset": 32400,
+        "time_zone": "Tokyo",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 38429,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000068107028/abe33a975508717e0f1bb97b3ebdb8a6.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000068107028/abe33a975508717e0f1bb97b3ebdb8a6.jpeg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/875581335896678403/D4k3HWFi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/875581335896678403/D4k3HWFi_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/171511513/1479026972",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    {
+      "created_at": "Tue Jun 20 05:06:47 +0000 2017",
+      "id": 877029942382297089,
+      "id_str": "877029942382297089",
+      "text": "@williamhcarlton You got it!\nFirst: https://t.co/SJ8dUO2V4w\nThen (full series, first video):… https://t.co/tH8MCWt3wZ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "williamhcarlton",
+            "name": "William Carlton",
+            "id": 1679746490,
+            "id_str": "1679746490",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/SJ8dUO2V4w",
+            "expanded_url": "https://bitcoin.org/bitcoin.pdf",
+            "display_url": "bitcoin.org/bitcoin.pdf",
+            "indices": [
+              36,
+              59
+            ]
+          },
+          {
+            "url": "https://t.co/tH8MCWt3wZ",
+            "expanded_url": "https://twitter.com/i/web/status/877029942382297089",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              94,
+              117
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 876710492789760000,
+      "in_reply_to_status_id_str": "876710492789760000",
+      "in_reply_to_user_id": 1679746490,
+      "in_reply_to_user_id_str": "1679746490",
+      "in_reply_to_screen_name": "williamhcarlton",
+      "user": {
+        "id": 84447535,
+        "id_str": "84447535",
+        "name": "Josh Cincinnati",
+        "screen_name": "acityinohio",
+        "location": "San Francisco",
+        "description": "Renersatz Man, Developer Advocate @Lyft, Cryptocurrency Nut",
+        "url": "https://t.co/xpZqlGlPOG",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/xpZqlGlPOG",
+                "expanded_url": "http://medium.com/@cincinnati",
+                "display_url": "medium.com/@cincinnati",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1915,
+        "friends_count": 687,
+        "listed_count": 126,
+        "created_at": "Thu Oct 22 23:03:08 +0000 2009",
+        "favourites_count": 22299,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 9408,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FEFEFE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/156621087/twitterbg.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/156621087/twitterbg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/720836904317366272/LyAvowgK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/720836904317366272/LyAvowgK_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/84447535/1457999039",
+        "profile_link_color": "5D45E6",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFF7CC",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Jun 19 07:42:20 +0000 2017",
+      "id": 876706698634907648,
+      "id_str": "876706698634907648",
+      "text": "RT @davidweisss: @blahah404 @MatToddChem @emckiernan13 @gedankenstuecke @glyn_dk @denormalize @O_S_M @opentrials @bengoldacre @EarlhamInst…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "davidweisss",
+            "name": "DNAvid",
+            "id": 19355816,
+            "id_str": "19355816",
+            "indices": [
+              3,
+              15
+            ]
+          },
+          {
+            "screen_name": "blahah404",
+            "name": "⓪ Rik Smith-Unna",
+            "id": 99173786,
+            "id_str": "99173786",
+            "indices": [
+              17,
+              27
+            ]
+          },
+          {
+            "screen_name": "MatToddChem",
+            "name": "Matthew Todd",
+            "id": 21448858,
+            "id_str": "21448858",
+            "indices": [
+              28,
+              40
+            ]
+          },
+          {
+            "screen_name": "emckiernan13",
+            "name": "Erin McKiernⓐn",
+            "id": 404442001,
+            "id_str": "404442001",
+            "indices": [
+              41,
+              54
+            ]
+          },
+          {
+            "screen_name": "gedankenstuecke",
+            "name": "Bastian Greshake",
+            "id": 14286491,
+            "id_str": "14286491",
+            "indices": [
+              55,
+              71
+            ]
+          },
+          {
+            "screen_name": "glyn_dk",
+            "name": "Fiona Nielsen",
+            "id": 32340834,
+            "id_str": "32340834",
+            "indices": [
+              72,
+              80
+            ]
+          },
+          {
+            "screen_name": "denormalize",
+            "name": "maxwell ogden",
+            "id": 12241752,
+            "id_str": "12241752",
+            "indices": [
+              81,
+              93
+            ]
+          },
+          {
+            "screen_name": "O_S_M",
+            "name": "Open Source Malaria",
+            "id": 342023138,
+            "id_str": "342023138",
+            "indices": [
+              94,
+              100
+            ]
+          },
+          {
+            "screen_name": "opentrials",
+            "name": "OpenTrials",
+            "id": 3034285955,
+            "id_str": "3034285955",
+            "indices": [
+              101,
+              112
+            ]
+          },
+          {
+            "screen_name": "bengoldacre",
+            "name": "ben goldacre",
+            "id": 6705042,
+            "id_str": "6705042",
+            "indices": [
+              113,
+              125
+            ]
+          },
+          {
+            "screen_name": "EarlhamInst",
+            "name": "Earlham Institute",
+            "id": 93655345,
+            "id_str": "93655345",
+            "indices": [
+              126,
+              138
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://www.bitweth.org\" rel=\"nofollow\">bitweth rtw</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 861918355,
+        "id_str": "861918355",
+        "name": "BITWETH HQ",
+        "screen_name": "BITWETH_HQ",
+        "location": "Earth",
+        "description": "Get ready 4 Boarding! What happens when you combine #Bitcoin volume with #Ethereum? #BITWETH $BWE $XBT $ETH  We're raising Seed Capital! Join: team@bitweth.org",
+        "url": "https://t.co/qaC8RdBe9B",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/qaC8RdBe9B",
+                "expanded_url": "http://www.bitweth.org",
+                "display_url": "bitweth.org",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 567,
+        "friends_count": 66,
+        "listed_count": 12,
+        "created_at": "Thu Oct 04 19:23:31 +0000 2012",
+        "favourites_count": 23,
+        "utc_offset": 7200,
+        "time_zone": "Berlin",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5896,
+        "lang": "nl",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/847163431685947392/cnFZ2IK4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/847163431685947392/cnFZ2IK4_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/861918355/1490704197",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Jun 19 07:41:34 +0000 2017",
+        "id": 876706509098536962,
+        "id_str": "876706509098536962",
+        "text": "@blahah404 @MatToddChem @emckiernan13 @gedankenstuecke @glyn_dk @denormalize @O_S_M @opentrials @bengoldacre… https://t.co/QhpnTvYGSJ",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "blahah404",
+              "name": "⓪ Rik Smith-Unna",
+              "id": 99173786,
+              "id_str": "99173786",
+              "indices": [
+                0,
+                10
+              ]
+            },
+            {
+              "screen_name": "MatToddChem",
+              "name": "Matthew Todd",
+              "id": 21448858,
+              "id_str": "21448858",
+              "indices": [
+                11,
+                23
+              ]
+            },
+            {
+              "screen_name": "emckiernan13",
+              "name": "Erin McKiernⓐn",
+              "id": 404442001,
+              "id_str": "404442001",
+              "indices": [
+                24,
+                37
+              ]
+            },
+            {
+              "screen_name": "gedankenstuecke",
+              "name": "Bastian Greshake",
+              "id": 14286491,
+              "id_str": "14286491",
+              "indices": [
+                38,
+                54
+              ]
+            },
+            {
+              "screen_name": "glyn_dk",
+              "name": "Fiona Nielsen",
+              "id": 32340834,
+              "id_str": "32340834",
+              "indices": [
+                55,
+                63
+              ]
+            },
+            {
+              "screen_name": "denormalize",
+              "name": "maxwell ogden",
+              "id": 12241752,
+              "id_str": "12241752",
+              "indices": [
+                64,
+                76
+              ]
+            },
+            {
+              "screen_name": "O_S_M",
+              "name": "Open Source Malaria",
+              "id": 342023138,
+              "id_str": "342023138",
+              "indices": [
+                77,
+                83
+              ]
+            },
+            {
+              "screen_name": "opentrials",
+              "name": "OpenTrials",
+              "id": 3034285955,
+              "id_str": "3034285955",
+              "indices": [
+                84,
+                95
+              ]
+            },
+            {
+              "screen_name": "bengoldacre",
+              "name": "ben goldacre",
+              "id": 6705042,
+              "id_str": "6705042",
+              "indices": [
+                96,
+                108
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/QhpnTvYGSJ",
+              "expanded_url": "https://twitter.com/i/web/status/876706509098536962",
+              "display_url": "twitter.com/i/web/status/8…",
+              "indices": [
+                110,
+                133
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 876705653351473153,
+        "in_reply_to_status_id_str": "876705653351473153",
+        "in_reply_to_user_id": 19355816,
+        "in_reply_to_user_id_str": "19355816",
+        "in_reply_to_screen_name": "davidweisss",
+        "user": {
+          "id": 19355816,
+          "id_str": "19355816",
+          "name": "DNAvid",
+          "screen_name": "davidweisss",
+          "location": "Ukkel, België",
+          "description": "Earn DNACoin, get better health https://t.co/7WxKtgn4SS #quant #crypto",
+          "url": "https://t.co/SMcjJQ4ZeF",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/SMcjJQ4ZeF",
+                  "expanded_url": "https://blog.dnavid.com/dnacoin-b31d1619e462",
+                  "display_url": "blog.dnavid.com/dnacoin-b31d16…",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+                {
+                  "url": "https://t.co/7WxKtgn4SS",
+                  "expanded_url": "https://dnavid.com/?utm_source=twtrprofile",
+                  "display_url": "dnavid.com/?utm_source=tw…",
+                  "indices": [
+                    32,
+                    55
+                  ]
+                }
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 836,
+          "friends_count": 1614,
+          "listed_count": 119,
+          "created_at": "Thu Jan 22 19:30:50 +0000 2009",
+          "favourites_count": 2427,
+          "utc_offset": -25200,
+          "time_zone": "Pacific Time (US & Canada)",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 3822,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/838190426041516032/vbYdusaj_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/838190426041516032/vbYdusaj_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/19355816/1485507971",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "c866291b5c89aa7a",
+          "url": "https://api.twitter.com/1.1/geo/id/c866291b5c89aa7a.json",
+          "place_type": "city",
+          "name": "Ukkel",
+          "full_name": "Ukkel, België",
+          "country_code": "BE",
+          "country": "Belgium",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  4.3122279,
+                  50.7636768
+                ],
+                [
+                  4.4133288,
+                  50.7636768
+                ],
+                [
+                  4.4133288,
+                  50.8168887
+                ],
+                [
+                  4.3122279,
+                  50.8168887
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Jun 19 07:41:34 +0000 2017",
+      "id": 876706509098536962,
+      "id_str": "876706509098536962",
+      "text": "@blahah404 @MatToddChem @emckiernan13 @gedankenstuecke @glyn_dk @denormalize @O_S_M @opentrials @bengoldacre… https://t.co/QhpnTvYGSJ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "blahah404",
+            "name": "⓪ Rik Smith-Unna",
+            "id": 99173786,
+            "id_str": "99173786",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "MatToddChem",
+            "name": "Matthew Todd",
+            "id": 21448858,
+            "id_str": "21448858",
+            "indices": [
+              11,
+              23
+            ]
+          },
+          {
+            "screen_name": "emckiernan13",
+            "name": "Erin McKiernⓐn",
+            "id": 404442001,
+            "id_str": "404442001",
+            "indices": [
+              24,
+              37
+            ]
+          },
+          {
+            "screen_name": "gedankenstuecke",
+            "name": "Bastian Greshake",
+            "id": 14286491,
+            "id_str": "14286491",
+            "indices": [
+              38,
+              54
+            ]
+          },
+          {
+            "screen_name": "glyn_dk",
+            "name": "Fiona Nielsen",
+            "id": 32340834,
+            "id_str": "32340834",
+            "indices": [
+              55,
+              63
+            ]
+          },
+          {
+            "screen_name": "denormalize",
+            "name": "maxwell ogden",
+            "id": 12241752,
+            "id_str": "12241752",
+            "indices": [
+              64,
+              76
+            ]
+          },
+          {
+            "screen_name": "O_S_M",
+            "name": "Open Source Malaria",
+            "id": 342023138,
+            "id_str": "342023138",
+            "indices": [
+              77,
+              83
+            ]
+          },
+          {
+            "screen_name": "opentrials",
+            "name": "OpenTrials",
+            "id": 3034285955,
+            "id_str": "3034285955",
+            "indices": [
+              84,
+              95
+            ]
+          },
+          {
+            "screen_name": "bengoldacre",
+            "name": "ben goldacre",
+            "id": 6705042,
+            "id_str": "6705042",
+            "indices": [
+              96,
+              108
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/QhpnTvYGSJ",
+            "expanded_url": "https://twitter.com/i/web/status/876706509098536962",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              110,
+              133
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 876705653351473153,
+      "in_reply_to_status_id_str": "876705653351473153",
+      "in_reply_to_user_id": 19355816,
+      "in_reply_to_user_id_str": "19355816",
+      "in_reply_to_screen_name": "davidweisss",
+      "user": {
+        "id": 19355816,
+        "id_str": "19355816",
+        "name": "DNAvid",
+        "screen_name": "davidweisss",
+        "location": "Ukkel, België",
+        "description": "Earn DNACoin, get better health https://t.co/7WxKtgn4SS #quant #crypto",
+        "url": "https://t.co/SMcjJQ4ZeF",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/SMcjJQ4ZeF",
+                "expanded_url": "https://blog.dnavid.com/dnacoin-b31d1619e462",
+                "display_url": "blog.dnavid.com/dnacoin-b31d16…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/7WxKtgn4SS",
+                "expanded_url": "https://dnavid.com/?utm_source=twtrprofile",
+                "display_url": "dnavid.com/?utm_source=tw…",
+                "indices": [
+                  32,
+                  55
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 836,
+        "friends_count": 1614,
+        "listed_count": 119,
+        "created_at": "Thu Jan 22 19:30:50 +0000 2009",
+        "favourites_count": 2427,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3822,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/838190426041516032/vbYdusaj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/838190426041516032/vbYdusaj_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19355816/1485507971",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "c866291b5c89aa7a",
+        "url": "https://api.twitter.com/1.1/geo/id/c866291b5c89aa7a.json",
+        "place_type": "city",
+        "name": "Ukkel",
+        "full_name": "Ukkel, België",
+        "country_code": "BE",
+        "country": "Belgium",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                4.3122279,
+                50.7636768
+              ],
+              [
+                4.4133288,
+                50.7636768
+              ],
+              [
+                4.4133288,
+                50.8168887
+              ],
+              [
+                4.3122279,
+                50.8168887
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sat Jun 17 01:55:53 +0000 2017",
+      "id": 875894737869430784,
+      "id_str": "875894737869430784",
+      "text": "@Dirtdawg888 @VinnyLingham 3) Another Core member Adam Beck who Satashi (creator of Bitcoin) cited in his white pap… https://t.co/8Ag1FS7lqE",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Dirtdawg888",
+            "name": "Wayne hackner",
+            "id": 74542616,
+            "id_str": "74542616",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "VinnyLingham",
+            "name": "Vinny Lingham",
+            "id": 1854401,
+            "id_str": "1854401",
+            "indices": [
+              13,
+              26
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/8Ag1FS7lqE",
+            "expanded_url": "https://twitter.com/i/web/status/875894737869430784",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 875894199278850048,
+      "in_reply_to_status_id_str": "875894199278850048",
+      "in_reply_to_user_id": 2804175577,
+      "in_reply_to_user_id_str": "2804175577",
+      "in_reply_to_screen_name": "TheJustinWade",
+      "user": {
+        "id": 2804175577,
+        "id_str": "2804175577",
+        "name": "Justin Wade ������������",
+        "screen_name": "TheJustinWade",
+        "location": "",
+        "description": "Engineer. Mercenary. Veteran.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 350,
+        "friends_count": 247,
+        "listed_count": 35,
+        "created_at": "Thu Sep 11 18:43:00 +0000 2014",
+        "favourites_count": 20926,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2245,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/796930808309288960/lV82ID_r_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/796930808309288960/lV82ID_r_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2804175577/1468309621",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sat Jun 17 00:23:51 +0000 2017",
+      "id": 875871575337259009,
+      "id_str": "875871575337259009",
+      "text": "@tm_rowlands @BrettArends Wobbly? Have you read the white paper behind it yet? If not, would recommend :)\nhttps://t.co/zGSJRP9X8m",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tm_rowlands",
+            "name": "Tom Rowlands",
+            "id": 1561609843,
+            "id_str": "1561609843",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "BrettArends",
+            "name": "Brett Arends",
+            "id": 25443684,
+            "id_str": "25443684",
+            "indices": [
+              13,
+              25
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/zGSJRP9X8m",
+            "expanded_url": "http://www.bitcoin.org/bitcoin.pdf",
+            "display_url": "bitcoin.org/bitcoin.pdf",
+            "indices": [
+              106,
+              129
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 875871210336382976,
+      "in_reply_to_status_id_str": "875871210336382976",
+      "in_reply_to_user_id": 1561609843,
+      "in_reply_to_user_id_str": "1561609843",
+      "in_reply_to_screen_name": "tm_rowlands",
+      "user": {
+        "id": 6661012,
+        "id_str": "6661012",
+        "name": "Devon Read",
+        "screen_name": "BlocktechCEO",
+        "location": "San Diego",
+        "description": "Founder of @Alexandria | veteran of the post production industry and the invasion of Iraq | working toward code-protected freedom of speech for all",
+        "url": "https://t.co/tWyjkMrPCl",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/tWyjkMrPCl",
+                "expanded_url": "http://www.alexandria.io",
+                "display_url": "alexandria.io",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 4329,
+        "friends_count": 5001,
+        "listed_count": 191,
+        "created_at": "Fri Jun 08 07:59:48 +0000 2007",
+        "favourites_count": 8386,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 5317,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "709397",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/745421538342494210/XQua-578_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/745421538342494210/XQua-578_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/6661012/1429227314",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "86A4A6",
+        "profile_sidebar_fill_color": "A0C5C7",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Jun 16 16:21:34 +0000 2017",
+      "id": 875750206788206594,
+      "id_str": "875750206788206594",
+      "text": "Satoshi Nakamoto's paper on Bitcoin: A Peer-to-Peer Electronic Cash System. Worth reading https://t.co/MzI2lTnsgC",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/MzI2lTnsgC",
+            "expanded_url": "https://bitcoin.org/bitcoin.pdf",
+            "display_url": "bitcoin.org/bitcoin.pdf",
+            "indices": [
+              90,
+              113
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 229567290,
+        "id_str": "229567290",
+        "name": "Lum Ramabaja",
+        "screen_name": "Lum_Ramabaja",
+        "location": "Linz, Austria",
+        "description": "Data scientist @7LYTIX, co-founder of @Smart_Scope, Bioinformatics student @jkulinz. Interested in helping people, #machinelearning, #datascience, #biotech.",
+        "url": "http://t.co/967TUj0JDZ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/967TUj0JDZ",
+                "expanded_url": "http://linkedin.com/pub/lum-ramabaja/30/647/456",
+                "display_url": "linkedin.com/pub/lum-ramaba…",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 312,
+        "friends_count": 191,
+        "listed_count": 86,
+        "created_at": "Wed Dec 22 18:55:18 +0000 2010",
+        "favourites_count": 1154,
+        "utc_offset": 7200,
+        "time_zone": "Ljubljana",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1640,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "396F8A",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000167082959/vn_QsuvP.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000167082959/vn_QsuvP.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/780433852099596289/RsUG5lJd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/780433852099596289/RsUG5lJd_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/229567290/1497558385",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Jun 16 13:36:24 +0000 2017",
+      "id": 875708638966550529,
+      "id_str": "875708638966550529",
+      "text": "@chrislhayes https://t.co/R1OLyoBEBL all you need.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "chrislhayes",
+            "name": "Christopher Hayes",
+            "id": 4207961,
+            "id_str": "4207961",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/R1OLyoBEBL",
+            "expanded_url": "https://bitcoin.org/bitcoin.pdf",
+            "display_url": "bitcoin.org/bitcoin.pdf",
+            "indices": [
+              13,
+              36
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 875488989037441024,
+      "in_reply_to_status_id_str": "875488989037441024",
+      "in_reply_to_user_id": 4207961,
+      "in_reply_to_user_id_str": "4207961",
+      "in_reply_to_screen_name": "chrislhayes",
+      "user": {
+        "id": 707526844103442432,
+        "id_str": "707526844103442432",
+        "name": "fartrade",
+        "screen_name": "Isx33I",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 44,
+        "friends_count": 60,
+        "listed_count": 15,
+        "created_at": "Wed Mar 09 11:21:59 +0000 2016",
+        "favourites_count": 284,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1021,
+        "lang": "it",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Jun 16 10:34:54 +0000 2017",
+      "id": 875662963658563584,
+      "id_str": "875662963658563584",
+      "text": "@Stupidosaur @GerberKawasaki @loomdart @coinbase More https://t.co/wkVDGgAcNA. If you are technically inclined star… https://t.co/mlHrBhVmRH",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Stupidosaur",
+            "name": "#DestroyTheAadhaar",
+            "id": 307807275,
+            "id_str": "307807275",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "GerberKawasaki",
+            "name": "Ross Gerber",
+            "id": 349249475,
+            "id_str": "349249475",
+            "indices": [
+              13,
+              28
+            ]
+          },
+          {
+            "screen_name": "loomdart",
+            "name": "(LASF) BIP LOOM",
+            "id": 2603525726,
+            "id_str": "2603525726",
+            "indices": [
+              29,
+              38
+            ]
+          },
+          {
+            "screen_name": "coinbase",
+            "name": "Coinbase",
+            "id": 574032254,
+            "id_str": "574032254",
+            "indices": [
+              39,
+              48
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/wkVDGgAcNA",
+            "expanded_url": "https://bitcoin.stackexchange.com/questions?sort=votes",
+            "display_url": "bitcoin.stackexchange.com/questions?sort…",
+            "indices": [
+              54,
+              77
+            ]
+          },
+          {
+            "url": "https://t.co/mlHrBhVmRH",
+            "expanded_url": "https://twitter.com/i/web/status/875662963658563584",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 875659734157729792,
+      "in_reply_to_status_id_str": "875659734157729792",
+      "in_reply_to_user_id": 117669992,
+      "in_reply_to_user_id_str": "117669992",
+      "in_reply_to_screen_name": "pii_ke",
+      "user": {
+        "id": 117669992,
+        "id_str": "117669992",
+        "name": "Eklavya",
+        "screen_name": "pii_ke",
+        "location": "Delhi, India",
+        "description": "Whim.",
+        "url": "https://t.co/E8ENpd4gG7",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/E8ENpd4gG7",
+                "expanded_url": "https://gerfingerpoken.tumblr.com",
+                "display_url": "gerfingerpoken.tumblr.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 332,
+        "friends_count": 216,
+        "listed_count": 25,
+        "created_at": "Fri Feb 26 07:02:09 +0000 2010",
+        "favourites_count": 4160,
+        "utc_offset": 19800,
+        "time_zone": "New Delhi",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 17382,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/711985641475538946/h6E4hBMl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/711985641475538946/h6E4hBMl_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/117669992/1405586907",
+        "profile_link_color": "44499E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": true,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Jun 15 21:34:45 +0000 2017",
+      "id": 875466633610973185,
+      "id_str": "875466633610973185",
+      "text": "RT @ganyet: #Bitcoin: A P2P Electronic Cash System. El document original de Satoshi Nakamoto (persona o col·lectiu, no se sap).\n https://t.…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Bitcoin",
+            "indices": [
+              12,
+              20
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ganyet",
+            "name": "Josep M. Ganyet",
+            "id": 4046891,
+            "id_str": "4046891",
+            "indices": [
+              3,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 374363087,
+        "id_str": "374363087",
+        "name": "Toni Homedes i Saun",
+        "screen_name": "thomedes",
+        "location": "Barcelona",
+        "description": "Apassionat de la tecnologia",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 142,
+        "friends_count": 345,
+        "listed_count": 28,
+        "created_at": "Fri Sep 16 05:48:14 +0000 2011",
+        "favourites_count": 1317,
+        "utc_offset": 7200,
+        "time_zone": "Madrid",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2635,
+        "lang": "ca",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1557495939/DSCF0768_normal.JPG",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1557495939/DSCF0768_normal.JPG",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/374363087/1387612601",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Jun 15 21:08:14 +0000 2017",
+        "id": 875459958996959232,
+        "id_str": "875459958996959232",
+        "text": "#Bitcoin: A P2P Electronic Cash System. El document original de Satoshi Nakamoto (persona o col·lectiu, no se sap).\n https://t.co/3So31P0Is7",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "Bitcoin",
+              "indices": [
+                0,
+                8
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/3So31P0Is7",
+              "expanded_url": "https://bitcoin.org/bitcoin.pdf",
+              "display_url": "bitcoin.org/bitcoin.pdf",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "und",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 4046891,
+          "id_str": "4046891",
+          "name": "Josep M. Ganyet",
+          "screen_name": "ganyet",
+          "location": "Barcelona, Catalonia",
+          "description": "Interested in life, the universe and everything. Work:@Mortensen, Teach:@UPFBarcelona, Talk:@RAC1 @BTVCat @TV3Cat Write:@LaVanguardia @VIAEmpresa @cavallfort",
+          "url": "https://t.co/kz6i0Jo2bR",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/kz6i0Jo2bR",
+                  "expanded_url": "http://mortensen.cat",
+                  "display_url": "mortensen.cat",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 23757,
+          "friends_count": 1685,
+          "listed_count": 743,
+          "created_at": "Tue Apr 10 15:58:39 +0000 2007",
+          "favourites_count": 14111,
+          "utc_offset": 7200,
+          "time_zone": "Paris",
+          "geo_enabled": false,
+          "verified": true,
+          "statuses_count": 91670,
+          "lang": "ca",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/878358682895101954/yOZn9Jly_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/878358682895101954/yOZn9Jly_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/4046891/1444076069",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 6,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Thu Jun 15 21:08:14 +0000 2017",
+      "id": 875459958996959232,
+      "id_str": "875459958996959232",
+      "text": "#Bitcoin: A P2P Electronic Cash System. El document original de Satoshi Nakamoto (persona o col·lectiu, no se sap).\n https://t.co/3So31P0Is7",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Bitcoin",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/3So31P0Is7",
+            "expanded_url": "https://bitcoin.org/bitcoin.pdf",
+            "display_url": "bitcoin.org/bitcoin.pdf",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4046891,
+        "id_str": "4046891",
+        "name": "Josep M. Ganyet",
+        "screen_name": "ganyet",
+        "location": "Barcelona, Catalonia",
+        "description": "Interested in life, the universe and everything. Work:@Mortensen, Teach:@UPFBarcelona, Talk:@RAC1 @BTVCat @TV3Cat Write:@LaVanguardia @VIAEmpresa @cavallfort",
+        "url": "https://t.co/kz6i0Jo2bR",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/kz6i0Jo2bR",
+                "expanded_url": "http://mortensen.cat",
+                "display_url": "mortensen.cat",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 23757,
+        "friends_count": 1685,
+        "listed_count": 743,
+        "created_at": "Tue Apr 10 15:58:39 +0000 2007",
+        "favourites_count": 14111,
+        "utc_offset": 7200,
+        "time_zone": "Paris",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 91670,
+        "lang": "ca",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/878358682895101954/yOZn9Jly_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/878358682895101954/yOZn9Jly_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4046891/1444076069",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Thu Jun 15 14:29:46 +0000 2017",
+      "id": 875359685154672642,
+      "id_str": "875359685154672642",
+      "text": "RT @AleGuardia: \"A p2p electronic cash would allow online payments without going through a fin. institution\" = non-fin digital money https:…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AleGuardia",
+            "name": "Alejandro Guardia",
+            "id": 166460777,
+            "id_str": "166460777",
+            "indices": [
+              3,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 166460777,
+        "id_str": "166460777",
+        "name": "Alejandro Guardia",
+        "screen_name": "AleGuardia",
+        "location": "Madrid",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 182,
+        "friends_count": 431,
+        "listed_count": 35,
+        "created_at": "Wed Jul 14 05:52:59 +0000 2010",
+        "favourites_count": 9896,
+        "utc_offset": 7200,
+        "time_zone": "Madrid",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6456,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1077744857/Sin_t_tulo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1077744857/Sin_t_tulo_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Apr 13 16:45:59 +0000 2017",
+        "id": 852563529018351616,
+        "id_str": "852563529018351616",
+        "text": "\"A p2p electronic cash would allow online payments without going through a fin. institution\" = non-fin digital money https://t.co/VDdKDpaqtY",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/VDdKDpaqtY",
+              "expanded_url": "https://bitcoin.org/bitcoin.pdf",
+              "display_url": "bitcoin.org/bitcoin.pdf",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 166460777,
+          "id_str": "166460777",
+          "name": "Alejandro Guardia",
+          "screen_name": "AleGuardia",
+          "location": "Madrid",
+          "description": "",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 182,
+          "friends_count": 431,
+          "listed_count": 35,
+          "created_at": "Wed Jul 14 05:52:59 +0000 2010",
+          "favourites_count": 9896,
+          "utc_offset": 7200,
+          "time_zone": "Madrid",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 6456,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1077744857/Sin_t_tulo_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1077744857/Sin_t_tulo_normal.jpg",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Jun 15 10:15:48 +0000 2017",
+      "id": 875295771712602116,
+      "id_str": "875295771712602116",
+      "text": "友達が勧めてた仮想通貨の入門書読んでるけど、ビットコインのプロトコルを発明した正体不明の人物「サトシ・ナカモト」ってめっちゃ厨二感ある\nhttps://t.co/jO8azkRJP0",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/jO8azkRJP0",
+            "expanded_url": "https://bitcoin.org/bitcoin.pdf",
+            "display_url": "bitcoin.org/bitcoin.pdf",
+            "indices": [
+              68,
+              91
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3948781393,
+        "id_str": "3948781393",
+        "name": "SCR",
+        "screen_name": "Shicority",
+        "location": "あきはばら",
+        "description": "法科大学院で法律の勉強をしています。ドラムを演奏したり、イラストを描いたりするのが好きです。【ドラム】https://t.co/CihLRWxUVc【pixiv】https://t.co/qbAtOq4otj",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/CihLRWxUVc",
+                "expanded_url": "https://www.youtube.com/user/vivianite2/videos",
+                "display_url": "youtube.com/user/vivianite…",
+                "indices": [
+                  51,
+                  74
+                ]
+              },
+              {
+                "url": "https://t.co/qbAtOq4otj",
+                "expanded_url": "http://pixiv.me/vivianite",
+                "display_url": "pixiv.me/vivianite",
+                "indices": [
+                  81,
+                  104
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 267,
+        "friends_count": 220,
+        "listed_count": 6,
+        "created_at": "Mon Oct 19 16:25:50 +0000 2015",
+        "favourites_count": 2142,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 6430,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/863063227818582016/eWuyq2VQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/863063227818582016/eWuyq2VQ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3948781393/1490269275",
+        "profile_link_color": "F58EA8",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    {
+      "created_at": "Thu Jun 15 05:09:55 +0000 2017",
+      "id": 875218793877839872,
+      "id_str": "875218793877839872",
+      "text": "RT @BitPay: Satoshi Nakomoto’s white paper that got all of this going, condensed into a block of words. #Bitcoin: https://t.co/ZVvugSdiEP h…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Bitcoin",
+            "indices": [
+              104,
+              112
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "BitPay",
+            "name": "BitPay",
+            "id": 915465450,
+            "id_str": "915465450",
+            "indices": [
+              3,
+              10
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ZVvugSdiEP",
+            "expanded_url": "http://buff.ly/2tikTJW",
+            "display_url": "buff.ly/2tikTJW",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://github.com/vporta/EmotiBot\" rel=\"nofollow\">TheEmotiBot</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 808873082500902915,
+        "id_str": "808873082500902915",
+        "name": "������",
+        "screen_name": "viiiiiinnn",
+        "location": "",
+        "description": "Retweeting crypto currency tweets often ������ Follow me for the latest.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2789,
+        "friends_count": 1908,
+        "listed_count": 106,
+        "created_at": "Wed Dec 14 03:15:45 +0000 2016",
+        "favourites_count": 7756,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 145285,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/874128459613831168/vljmp0L-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/874128459613831168/vljmp0L-_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/808873082500902915/1497758061",
+        "profile_link_color": "333333",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Jun 13 18:37:51 +0000 2017",
+        "id": 874697341542043648,
+        "id_str": "874697341542043648",
+        "text": "Satoshi Nakomoto’s white paper that got all of this going, condensed into a block of words. #Bitcoin:… https://t.co/j8sRXSDuqu",
+        "truncated": true,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "Bitcoin",
+              "indices": [
+                92,
+                100
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/j8sRXSDuqu",
+              "expanded_url": "https://twitter.com/i/web/status/874697341542043648",
+              "display_url": "twitter.com/i/web/status/8…",
+              "indices": [
+                103,
+                126
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 915465450,
+          "id_str": "915465450",
+          "name": "BitPay",
+          "screen_name": "BitPay",
+          "location": "Atlanta",
+          "description": "The world leader in bitcoin payments. Accept bitcoin payments, spend & store bitcoin securely, build with bitcoin technology. media@bitpay.com",
+          "url": "https://t.co/7ecSyMRraK",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/7ecSyMRraK",
+                  "expanded_url": "https://bitpay.com",
+                  "display_url": "bitpay.com",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 81803,
+          "friends_count": 2,
+          "listed_count": 1538,
+          "created_at": "Tue Oct 30 20:48:42 +0000 2012",
+          "favourites_count": 2648,
+          "utc_offset": -14400,
+          "time_zone": "Eastern Time (US & Canada)",
+          "geo_enabled": true,
+          "verified": true,
+          "statuses_count": 11071,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "001C3B",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/450741444106403840/eSSm__fH.png",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/450741444106403840/eSSm__fH.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/750715284298862596/hgLKxRsO_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/750715284298862596/hgLKxRsO_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/915465450/1477334016",
+          "profile_link_color": "426D9C",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 15,
+        "favorite_count": 22,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 15,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Jun 15 05:09:55 +0000 2017",
+      "id": 875218792439136257,
+      "id_str": "875218792439136257",
+      "text": "RT @BitPay: Satoshi Nakomoto’s white paper that got all of this going, condensed into a block of words. #Bitcoin: https://t.co/ZVvugSdiEP h…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Bitcoin",
+            "indices": [
+              104,
+              112
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "BitPay",
+            "name": "BitPay",
+            "id": 915465450,
+            "id_str": "915465450",
+            "indices": [
+              3,
+              10
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ZVvugSdiEP",
+            "expanded_url": "http://buff.ly/2tikTJW",
+            "display_url": "buff.ly/2tikTJW",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2802126381,
+        "id_str": "2802126381",
+        "name": "Arjuna Kumbara",
+        "screen_name": "Arjuna_Kumbara",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 772,
+        "friends_count": 347,
+        "listed_count": 73,
+        "created_at": "Fri Oct 03 15:56:30 +0000 2014",
+        "favourites_count": 1122,
+        "utc_offset": 25200,
+        "time_zone": "Jakarta",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1275,
+        "lang": "id",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/518080624490340352/_Bymr-90_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/518080624490340352/_Bymr-90_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Jun 13 18:37:51 +0000 2017",
+        "id": 874697341542043648,
+        "id_str": "874697341542043648",
+        "text": "Satoshi Nakomoto’s white paper that got all of this going, condensed into a block of words. #Bitcoin:… https://t.co/j8sRXSDuqu",
+        "truncated": true,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "Bitcoin",
+              "indices": [
+                92,
+                100
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/j8sRXSDuqu",
+              "expanded_url": "https://twitter.com/i/web/status/874697341542043648",
+              "display_url": "twitter.com/i/web/status/8…",
+              "indices": [
+                103,
+                126
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 915465450,
+          "id_str": "915465450",
+          "name": "BitPay",
+          "screen_name": "BitPay",
+          "location": "Atlanta",
+          "description": "The world leader in bitcoin payments. Accept bitcoin payments, spend & store bitcoin securely, build with bitcoin technology. media@bitpay.com",
+          "url": "https://t.co/7ecSyMRraK",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/7ecSyMRraK",
+                  "expanded_url": "https://bitpay.com",
+                  "display_url": "bitpay.com",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 81803,
+          "friends_count": 2,
+          "listed_count": 1538,
+          "created_at": "Tue Oct 30 20:48:42 +0000 2012",
+          "favourites_count": 2648,
+          "utc_offset": -14400,
+          "time_zone": "Eastern Time (US & Canada)",
+          "geo_enabled": true,
+          "verified": true,
+          "statuses_count": 11071,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "001C3B",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/450741444106403840/eSSm__fH.png",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/450741444106403840/eSSm__fH.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/750715284298862596/hgLKxRsO_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/750715284298862596/hgLKxRsO_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/915465450/1477334016",
+          "profile_link_color": "426D9C",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 15,
+        "favorite_count": 22,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 15,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Jun 15 04:30:51 +0000 2017",
+      "id": 875208960952881152,
+      "id_str": "875208960952881152",
+      "text": "RT @landrew: The bitcoin whitepaper is truly a work of art. A simple, robust and elegant design that started a revolution. https://t.co/SQU…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "landrew",
+            "name": "Andrew Laffoon",
+            "id": 819217,
+            "id_str": "819217",
+            "indices": [
+              3,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 17869952,
+        "id_str": "17869952",
+        "name": "Sid Viswanathan",
+        "screen_name": "sidviswanathan",
+        "location": "San Francisco, CA",
+        "description": "Always tinkering. Entrepreneur and product manager constantly building and trying stuff. Previously Co-Founder at CardMunch (acquired by LinkedIn)",
+        "url": "https://t.co/hI5Ny1xtQT",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/hI5Ny1xtQT",
+                "expanded_url": "http://sidspeaking.com",
+                "display_url": "sidspeaking.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 5503,
+        "friends_count": 639,
+        "listed_count": 194,
+        "created_at": "Thu Dec 04 15:31:15 +0000 2008",
+        "favourites_count": 507,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 7482,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/88977904/Headshot_normal.JPG",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/88977904/Headshot_normal.JPG",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17869952/1400870796",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Jun 15 01:00:04 +0000 2017",
+        "id": 875155914742878208,
+        "id_str": "875155914742878208",
+        "text": "The bitcoin whitepaper is truly a work of art. A simple, robust and elegant design that started a revolution. https://t.co/SQUiIou4EA",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/SQUiIou4EA",
+              "expanded_url": "https://bitcoin.org/bitcoin.pdf",
+              "display_url": "bitcoin.org/bitcoin.pdf",
+              "indices": [
+                110,
+                133
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 819217,
+          "id_str": "819217",
+          "name": "Andrew Laffoon",
+          "screen_name": "landrew",
+          "location": "Palo Alto",
+          "description": "Co-Founder/CEO @Mixbook, makers of @MontageBook and @HeyMosaic. @Cal grad. Mentor of entrepreneurs. Follower of Jesus.",
+          "url": "http://t.co/Cm18Lnt9dk",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/Cm18Lnt9dk",
+                  "expanded_url": "http://www.mixbook.com",
+                  "display_url": "mixbook.com",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 625,
+          "friends_count": 426,
+          "listed_count": 47,
+          "created_at": "Wed Mar 07 19:34:06 +0000 2007",
+          "favourites_count": 312,
+          "utc_offset": -25200,
+          "time_zone": "Pacific Time (US & Canada)",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 702,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "FFFFFF",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/784047043/54b5ca14a0d3d0b5254fb89c7bdb273a.gif",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/784047043/54b5ca14a0d3d0b5254fb89c7bdb273a.gif",
+          "profile_background_tile": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/2924174564/0677a9eb67589611b1e85e9cbd32e260_normal.jpeg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/2924174564/0677a9eb67589611b1e85e9cbd32e260_normal.jpeg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/819217/1400869140",
+          "profile_link_color": "1F98C7",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "EADEAA",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Jun 15 01:00:04 +0000 2017",
+      "id": 875155914742878208,
+      "id_str": "875155914742878208",
+      "text": "The bitcoin whitepaper is truly a work of art. A simple, robust and elegant design that started a revolution. https://t.co/SQUiIou4EA",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/SQUiIou4EA",
+            "expanded_url": "https://bitcoin.org/bitcoin.pdf",
+            "display_url": "bitcoin.org/bitcoin.pdf",
+            "indices": [
+              110,
+              133
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 819217,
+        "id_str": "819217",
+        "name": "Andrew Laffoon",
+        "screen_name": "landrew",
+        "location": "Palo Alto",
+        "description": "Co-Founder/CEO @Mixbook, makers of @MontageBook and @HeyMosaic. @Cal grad. Mentor of entrepreneurs. Follower of Jesus.",
+        "url": "http://t.co/Cm18Lnt9dk",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/Cm18Lnt9dk",
+                "expanded_url": "http://www.mixbook.com",
+                "display_url": "mixbook.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 625,
+        "friends_count": 426,
+        "listed_count": 47,
+        "created_at": "Wed Mar 07 19:34:06 +0000 2007",
+        "favourites_count": 312,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 702,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/784047043/54b5ca14a0d3d0b5254fb89c7bdb273a.gif",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/784047043/54b5ca14a0d3d0b5254fb89c7bdb273a.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2924174564/0677a9eb67589611b1e85e9cbd32e260_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2924174564/0677a9eb67589611b1e85e9cbd32e260_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/819217/1400869140",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EADEAA",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Jun 14 22:45:34 +0000 2017",
+      "id": 875122068605378560,
+      "id_str": "875122068605378560",
+      "text": "@woke8yearold Uhhhhhhh https://t.co/9849CRJQJR",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "woke8yearold",
+            "name": "jodorowsky's aleph",
+            "id": 2598183050,
+            "id_str": "2598183050",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/9849CRJQJR",
+            "expanded_url": "https://bitcoin.org/bitcoin.pdf",
+            "display_url": "bitcoin.org/bitcoin.pdf",
+            "indices": [
+              23,
+              46
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 875121226640916480,
+      "in_reply_to_status_id_str": "875121226640916480",
+      "in_reply_to_user_id": 2598183050,
+      "in_reply_to_user_id_str": "2598183050",
+      "in_reply_to_screen_name": "woke8yearold",
+      "user": {
+        "id": 630465792,
+        "id_str": "630465792",
+        "name": "Gabriel Puliatti",
+        "screen_name": "gpuliatti",
+        "location": "San Francisco, CA",
+        "description": "they are capable of telling the story of their own production in words never used before",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 522,
+        "friends_count": 647,
+        "listed_count": 36,
+        "created_at": "Sun Jul 08 17:38:15 +0000 2012",
+        "favourites_count": 4801,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1757,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/837197145287479297/uKtOjIwQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/837197145287479297/uKtOjIwQ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/630465792/1486771206",
+        "profile_link_color": "002DB3",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    }
+  ],
+  "search_metadata": {
+    "completed_in": 0.06,
+    "max_id": 878224944080879616,
+    "max_id_str": "878224944080879616",
+    "query": "%27https%3A%2F%2Fbitcoin.org%2Fbitcoin.pdf%27",
+    "refresh_url": "?since_id=878224944080879616&q=%27https%3A%2F%2Fbitcoin.org%2Fbitcoin.pdf%27&include_entities=1",
+    "count": 100,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}
